@@ -56,6 +56,7 @@ payload:
 # > Meta
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,muse.ai
 
 # > Microsoft Copilot
   - DOMAIN,api.msn.com
